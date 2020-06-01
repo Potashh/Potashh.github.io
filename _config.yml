@@ -32,7 +32,7 @@ github_username:
 #   - portfolio.md
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 
 plugins:
   - jekyll-feed
